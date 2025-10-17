@@ -1,0 +1,12 @@
+city,state,country,place_name,category,date,notes
+Phoenix,AZ,USA,Hole-in-the-Rock,Attraction,2023-03-17,
+Phoenix,AZ,USA,Desert Botanical Garden,Garden,2023-03-18,
+Scottsdale,AZ,USA,Old Town Scottsdale,Neighborhood,2023-03-19,
+Sedona,AZ,USA,Cathedral Rock,Trail,2023-03-20,
+Sedona,AZ,USA,Chapel of the Holy Cross,Attraction,2023-03-20,
+Las Vegas,NV,USA,The Strip,Neighborhood,2022-09-11,
+Las Vegas,NV,USA,Red Rock Canyon,Park,2022-09-12,
+San Francisco,CA,USA,Golden Gate Bridge,Attraction,2021-07-01,
+San Francisco,CA,USA,Alcatraz Island,Attraction,2021-07-02,
+Beijing,,China,Forbidden City,Museum,2019-05-15,
+Beijing,,China,Great Wall at Mutianyu,Attraction,2019-05-16,
