@@ -46,3 +46,4 @@ python -m src.generate_map --input output/tripadvisor_places.csv --output output
 - Geocoding fallback for place names uses Nominatim and caches under `cache/geocode/`.
 - If a city's polygon looks off, delete its cache file and try again; you may refine `city,state,country` in your CSV for better matches.
 - Change tile style with `--tiles` (e.g. "OpenStreetMap", "Stamen Terrain").
+=======
