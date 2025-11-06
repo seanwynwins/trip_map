@@ -65,3 +65,4 @@ python -m src.generate_map --input output/tripadvisor_places.csv --output output
 - The file should be in your Downloads folder
 
 
+
